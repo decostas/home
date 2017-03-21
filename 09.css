@@ -1,0 +1,28 @@
+body
+{
+	font-family: fantasy;
+	margin: 20%;
+	background: yellow;
+
+}
+
+h1
+{
+	padding: 2%;
+	color: green;
+	border: dotted gray 3px;
+	background: blue;
+	
+	
+}
+
+h2
+{
+	padding: 2%;
+	color: green;
+	border: dotted gray 3px;
+	background: blue;
+	
+	
+	
+}
