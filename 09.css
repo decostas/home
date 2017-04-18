@@ -6,6 +6,11 @@ body
 
 }
 
+function changeColour(newColour)
+{
+   document.body.bgColor = newColour;
+} // end of function changeColour(newColour)
+
 h1
 {
 	padding: 2%;
