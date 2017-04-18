@@ -5,11 +5,7 @@ body
 	background: yellow;
 
 }
-
-function changeColour(newColour)
-{
-   document.body.bgColor = newColour;
-} // end of function changeColour(newColour)
+alert("You have been warned!");
 
 h1
 {
